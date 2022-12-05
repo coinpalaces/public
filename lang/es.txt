@@ -22,12 +22,12 @@
     "button":"CONTINUAR"
 },
 "pin":{
-    "step":"Step 2 of 2",
-    "title":"Enter your PIN",
-    "p1":"Enter your 6-digit PIN to continue log in.",
-    "p2":"What is this?",
-    "forgot":"Don't ask me again on this device",
-    "button":"LOG IN",
+    "step":"Paso 2 de 2",
+    "title":"Introduzca su PIN",
+    "p1":"Introduzca su PIN de 6 dígitos para continuar con el inicio de sesión.",
+    "p2":"¿Qué es esto?",
+    "forgot":"No me pregunte de nuevo en este dispositivo",
+    "button":"INICIAR SESIÓN",
         "label":"PIN"
 
 },
