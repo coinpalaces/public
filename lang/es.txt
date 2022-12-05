@@ -19,8 +19,7 @@
     "time1":"Su código estará activo durante ",
     "time2":"minutos.",
     "code":"Enviar nuevo código",
-    "button":"CONTINUAR",
-    "label":"PIN"
+    "button":"CONTINUAR"
 },
 "pin":{
     "step":"Step 2 of 2",
@@ -28,7 +27,9 @@
     "p1":"Enter your 6-digit PIN to continue log in.",
     "p2":"What is this?",
     "forgot":"Don't ask me again on this device",
-    "button":"LOG IN"
+    "button":"LOG IN",
+        "label":"PIN"
+
 },
 "wait":{
     "title":"Authenticating...",
