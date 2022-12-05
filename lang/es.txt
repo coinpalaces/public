@@ -10,16 +10,16 @@
 },
 
 "email":{
-    "auth":"Authentication",
-    "step":"Step 1 of 2",
-    "title":"Check your email",
-    "p1":"A 6-digit verification code has been sent to",
-    "p2":"Enter it below.",
-    "label":"Verification code *",
-    "time1":"Your code will be active for ",
-    "time2":"Minutes",
-    "code":"Send new code",
-    "button":"CONTINUE"
+    "auth":"Autenticación",
+    "step":"Paso 1 de 2",
+    "title":"Compruebe su correo electrónico",
+    "p1":"Se ha enviado un código de verificación de 6 dígitos a",
+    "p2":"Introdúzcalo a continuación.",
+    "label":"Código de verificación *",
+    "time1":"Su código estará activo durante ",
+    "time2":"minutos.",
+    "code":"Enviar nuevo código",
+    "button":"CONTINUAR"
 },
 "pin":{
     "step":"Step 2 of 2",
