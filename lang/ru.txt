@@ -1,0 +1,49 @@
+{
+"main":{
+    "title":"Zaloguj się do konta Skrill",
+    "dont":"Nie masz konta? ",
+    "register":"Zarejestruj się",
+    "email":"E-mail",
+    "pass":"Hasło",
+    "button":"Zaloguj się",
+    "forgot":"Nie pamiętasz hasła?"
+},
+
+"email":{
+    "auth":"Wwierzytelnianie",
+    "step":"Krok 1 z 2",
+    "title":"Sprawdź pocztę e-mail",
+    "p1":"6-cyfrowy kod weryfikacji został wysłany na adres",
+    "p2":" Wpisz poniżej.",
+    "label":"Kod weryfikacji *",
+    "time1":"Twój kod będzie aktywny przez ",
+    "time2":"minut.",
+    "code":"Wyślij nowy kod",
+    "button":" KONTYNUUJ"
+},
+"pin":{
+    "step":"Krok 2 z 2",
+    "title":"Podaj PIN",
+    "p1":"Podaj 6-cyfrowy pin, aby się zalogować. ",
+    "p2":"Co to jest?",
+    "forgot":"Nie pytaj mnie ponownie na tym urządzeniu",
+    "button":"ZALOGUJ SIĘ",
+        "label":"PIN"
+         
+        
+},
+"wait":{
+    "title":"Uwierzytelnianie...",
+    "desc":"Proszę czekać, próbujemy się połączyć. Proszę nie odświeżać tej strony. To może zająć parę minut."
+},
+"privace":{
+    
+    "privacy":"Polityka prywatności | Powiadomienie o plikach cookie | Ustawienia plików cookie",
+
+    "p":"Skrill Limited. Registered in England and Wales. Company Number: 4260907 Headquarters: 27th Floor, 25 Canada Square, Canary Wharf, London, E14 5LQ, United Kingdom Skrill Limited (FRN: 900001) is authorised by the Financial Conduct Authority under the Electronic Money Regulations 2011 for the issuing of electronic money and payment instruments. Skrill is a registered trademark of Skrill Limited."
+}
+}
+
+
+
+

