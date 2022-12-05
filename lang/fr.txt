@@ -1,0 +1,47 @@
+{
+"main":{
+    "title":"Connectez-vous à votre compte Skrill",
+    "dont":"Vous n'avez pas de compte ? ",
+    "register":" S'inscrire",
+    "email":"e-mail",
+    "pass":"Mot de passe",
+    "button":"Se connecter",
+    "forgot":"Mot de passe oublié ?"
+},
+
+"email":{
+    "auth":"Authentification",
+    "step":"Étape 1 sur 2",
+    "title":"Vérifiez votre boîte de réception",
+    "p1":"Un code de vérification à 6 chiffres a été envoyé à",
+    "p2":"Saisissez-le ci-dessous.",
+    "label":"Code de vérification *",
+    "time1":"Votre code sera actif pendant ",
+    "time2":"minutes.",
+    "code":"Envoyer un nouveau code",
+    "button":"CONTINUER"
+},
+"pin":{
+    "step":"Étape 2 sur 2",
+    "title":"Saisissez votre code PIN",
+    "p1":"Saisissez votre code PIN à 6 chiffres pour poursuivre la connexion.",
+    "p2":"Qu'est-ce que c'est ?",
+    "forgot":"Ne plus me poser la question sur cet appareil",
+    "button":"CONNECTEZ-VOUS",
+        "label":"Code PIN"
+
+},
+"wait":{
+    "title":"Authentification...",
+    "desc":"Veuillez patienter pendant que nous essayons de vous connecter. Veuillez ne pas actualiser cette page. Cela peut prendre quelques minutes."
+},
+"privace":{
+
+    "privacy":"Politique de confidentialité | Avis sur les cookies | Cookies Settings",
+
+    "p":"Skrill Limited. Immatriculée en Angleterre et au Pays de Galles sous le numéro d'entreprise : 4260907 Siège social : 27th Floor, 25 Canada Square, Canary Wharf, London, E14 5LQ, Royaume-Uni. Skrill Limited (FRN : 900001) est autorisée par la Financial Conduct Authority au titre des règlementations de 2011 sur l'argent électronique (« Electronic Money Regulations 2011 ») à émettre de l'argent et des instruments de paiement électroniques. Skrill est une marque déposée de Skrill Limited."
+}
+}
+
+
+

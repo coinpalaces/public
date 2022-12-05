@@ -26,7 +26,7 @@
     "title":"Enter your PIN",
     "p1":"Enter your 6-digit PIN to continue log in.",
     "p2":"What is this?",
-    "forgot":"Don't ask me again on this device questionmark",
+    "forgot":"Don't ask me again on this device question",
     "button":"LOG IN",
         "label":"PIN"
 
