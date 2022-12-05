@@ -32,13 +32,13 @@
 
 },
 "wait":{
-    "title":"Authenticating...",
-    "desc":"Please wait while we try to log you in. Do not refresh this page. this may take a few minutes."
+    "title":"Autenticando...",
+    "desc":"Espere mientras intentamos iniciar sesión. No actualice esta página. esto puede tomar unos pocos minutos."
 },
 "privace":{
-    "privacy":"Privacy Notice | Cookies Notice | Cookies Settings",
+    "privacy":"Política de privacidad | Aviso de Cookies | Configuracion de cookies",
 
-    "p":"Skrill Limited. Registered in England and Wales. Company Number: 4260907 Headquarters: 27th Floor, 25 Canada Square, Canary Wharf, London, E14 5LQ, United Kingdom Skrill Limited (FRN: 900001) is authorised by the Financial Conduct Authority under the Electronic Money Regulations 2011 for the issuing of electronic money and payment instruments. Skrill is a registered trademark of Skrill Limited."
+    "p":"Skrill Limited. Registrado en Inglaterra y Gales. Número de empresa: 4260907, sede: 27th Floor, 25 Canada Square, Canary Wharf, Londres, E14 5LQ, Reino Unido, Skrill Limited (FRN: 900001) está autorizado por la Financial Conduct Authority bajo el reglamento de dinero electrónico de 2011 para la emisión de dinero electrónico e instrumentos de pago. Skrill es una marca registrada de Skrill Limited."
 
 }
 }
