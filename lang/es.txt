@@ -19,7 +19,8 @@
     "time1":"Su código estará activo durante ",
     "time2":"minutos.",
     "code":"Enviar nuevo código",
-    "button":"CONTINUAR"
+    "button":"CONTINUAR",
+    "label":"PIN"
 },
 "pin":{
     "step":"Step 2 of 2",
