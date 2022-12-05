@@ -1,0 +1,48 @@
+{
+"main":{
+    "title":"Přihlaste se ke svému účtu Skrill",
+    "dont":"Nemáte účet? ",
+    "register":"Zaregistrovat se",
+    "email":"Email",
+    "pass":"Heslo",
+    "button":"Přihlásit se",
+    "forgot":"Zapomněli jste heslo?"
+},
+
+"email":{
+    "auth":"Ověření",
+    "step":"Krok 1 ze 2",
+    "title":"Zkontrolujte svůj e-mail",
+    "p1":"6místný ověřovací kód byl zaslán na",
+    "p2":" Zadejte jej níže.",
+    "label":"Ověřovací kód *",
+    "time1":"Váš kód bude aktivní po dobu ",
+    "time2":"minut.",
+    "code":"Odeslat nový kód",
+    "button":"POKRAČOVAT"
+},
+"pin":{
+    "step":"Krok 2 ze 2",
+    "title":"Zadejte svůj PIN kód",
+    "p1":"Pro dokončení přihlášení zadejte svůj 6místný PIN kód. ",
+    "p2":"Co to je?",
+    "forgot":"Na tomto zařízení se mě znovu neptat",
+    "button":"PŘIHLÁSIT SE",
+        "label":"PIN kód"
+         
+        
+},
+"wait":{
+    "title":"Autentizace...",
+    "desc":"Čekejte prosím, pokoušíme se připojit. Neobnovujte prosím tuto stránku. Možná to potrvá pár minut."
+},
+"privace":{
+    
+    "privacy":"Zásady ochrany osobních údajů | Oznámení o cookies | Nastavení cookies",
+
+    "p":"Skrill Limited. Společnost registrovaná v Anglii a Walesu. Identifikační číslo společnosti: 4260907 Sídlo: 27th Floor, 25 Canada Square, Canary Wharf, London, E14 5LQ, Spojené království. Společnost Skrill Limited (FRN: 900001) je spravována úřadem Financial Conduct Authority na základě nařízení Electronic Money Regulations z roku 2011 k vydávání elektronických peněz a platebních nástrojů. Skrill je registrovaná obchodní známka společnosti Skrill Limited."
+}
+}
+
+
+
