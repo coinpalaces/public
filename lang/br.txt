@@ -10,6 +10,7 @@
 },
 
 "email":{
+    "mobile":"Digite o código",
     "codeSent":"Code gesendet",
     "back":"Voltar",
     "auth":"Autenticação",
