@@ -10,6 +10,7 @@
 },
 
 "email":{
+    "mobile":"Podaj kod",
     "codeSent":"Kod został wysłany",
     "back":"Wstecz",
     "auth":"Wwierzytelnianie",
