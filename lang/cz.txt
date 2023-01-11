@@ -10,6 +10,7 @@
 },
 
 "email":{
+    "mobile":"Zadejte kód",
     "codeSent":"Kód odeslán",
     "back":"Zpět",
     "auth":"Ověření",
