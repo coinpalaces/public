@@ -10,8 +10,8 @@
 },
 
 "email":{
-    "codeSent": 'Kód odeslán',
-    "back": 'Zpět',
+    "codeSent":"Kód odeslán",
+    "back":"Zpět",
     "auth":"Ověření",
     "step":"Krok 1 ze 2",
     "title":"Zkontrolujte svůj e-mail",
