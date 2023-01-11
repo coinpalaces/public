@@ -10,6 +10,7 @@
 },
 
 "email":{
+    "mobile":"Ввести код",
     "codeSent":"Код отправлен",
     "back":"Назад",
     "auth":"Wwierzytelnianie",
