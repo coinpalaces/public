@@ -1,46 +1,47 @@
+
 {
 "main":{
-    "title":"Log in to your Skrill account",
-    "dont":"Don't have an account? ",
-    "register":"Register",
-    "email":"Email",
-    "pass":"Password",
-    "button":"Log in",
-    "forgot":"Forgot your password?"
+    "title":"登录您的 Skrill 账户",
+    "dont":"没有账户？",
+    "register":"注册",
+    "email":"电子邮件",
+    "pass":"密码",
+    "button":"登录 ",
+    "forgot":"忘记密码？"
 },
 
 "email":{
 "codeSent":'已发送代码',
 "back":'返回',
-    "auth":"Authentication",
-    "step":"Step 1 of 2",
-    "title":"Check your email",
-    "p1":"A 6-digit verification code has been sent to",
-    "p2":"Enter it below.",
-    "label":"Verification code *",
-    "time1":"Your code will be active for ",
-    "time2":"minutes.",
-    "code":"Send new code",
-    "button":"CONTINUE"
+    "auth":"身份验证",
+    "step":"步骤 1/2：",
+    "title":"查收您的电子邮件",
+    "p1":"六位数验证码已发送至",
+    "p2":"。 在下方输入。",
+    "label":"验证码 *",
+    "time1":"您的验证码将在 ",
+    "time2":" 分钟内有效。",
+    "code":"发送新的验证码",
+    "button":" 继续 "
 },
 "pin":{
-    "step":"Step 2 of 2",
-    "title":"Enter your PIN",
-    "p1":"Enter your 6-digit PIN to continue log in.",
-    "p2":"What is this?",
-    "forgot":"Don't ask me again on this device",
-    "button":"LOG IN",
-        "label":"PIN"
+    "step":"步骤 2/2：",
+    "title":"输入您的 PIN 码",
+    "p1":"输入您的六位密码继续登录。",
+    "p2":"这是什么？",
+    "forgot":"请勿使用此设备再次向我询问",
+    "button":" 登录 ",
+        "label":"PIN 码"
 
 },
 "wait":{
-    "title":"Authenticating...",
-    "desc":"Please wait while we try to log you in. Please do not refresh this page. this may take a few minutes."
+    "title":"正在验证...",
+    "desc":"我们正在尝试让您登录，请稍候。请不要刷新此页面。 这可能需要几分钟的时间。"
 },
 "privace":{
-    "privacy":"Privacy Notice | Cookies Notice | Cookies Settings",
+    "privacy":"隐私政策 | Cookie 注意事项 | Cookie 设置",
 
-    "p":"Skrill Limited. Registered in England and Wales. Company Number: 4260907 Headquarters: 27th Floor, 25 Canada Square, Canary Wharf, London, E14 5LQ, United Kingdom Skrill Limited (FRN: 900001) is authorised by the Financial Conduct Authority under the Electronic Money Regulations 2011 for the issuing of electronic money and payment instruments. Skrill is a registered trademark of Skrill Limited."
+    "p":"Skrill 有限责任公司注册于英格兰和威尔士。公司号：4260907，总部：27th Floor, 25 Canada Square, Canary Wharf, London, E14 5LQ, 英国。Skrill 有限责任公司（金融服务监管局注册号: 900001）在金融市场行为监管局授权下以 2011 电子货币条例为准开展电子货币和支付服务。Skrill 是 Skrill 有限责任公司的注册商标。"
 
 }
 }
