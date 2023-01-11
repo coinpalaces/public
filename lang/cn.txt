@@ -11,6 +11,7 @@
 },
 
 "email":{
+"mobile":"输入代码",
 "codeSent":"已发送代码",
 "back":"返回",
     "auth":"身份验证",
