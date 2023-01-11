@@ -10,8 +10,8 @@
 },
 
 "email":{
-    "codeSent":'Codice inviato',
-    "back":'Indietro',
+    "codeSent":"Codice inviato",
+    "back":"Indietro",
     "auth":"Autenticazione",
     "step":"Fase 1 di 2",
     "title":"Verifica la tua casella email",
