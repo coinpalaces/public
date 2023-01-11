@@ -10,6 +10,8 @@
 },
 
 "email":{
+    "codeSent":'Código enviado',
+    "back":'Voltar',
     "auth":"Autenticação",
     "step":"Passo 1 de 2",
     "title":"Verifique o seu e-mail",
