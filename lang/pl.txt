@@ -10,6 +10,8 @@
 },
 
 "email":{
+    "codeSent":'Kod został wysłany',
+    "back":'Wstecz',
     "auth":"Wwierzytelnianie",
     "step":"Krok 1 z 2",
     "title":"Sprawdź pocztę e-mail",
