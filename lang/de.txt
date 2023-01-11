@@ -10,6 +10,8 @@
 },
 
 "email":{
+    "codeSent": 'Code gesendet',
+    "back": 'Zurück',
     "auth":"Authentifizierung",
     "step":"Schritt 1 von 2",
     "title":"Überprüfen Sie Ihre E-Mails",
