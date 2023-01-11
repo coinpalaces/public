@@ -10,6 +10,8 @@
 },
 
 "email":{
+    "codeSent":'Code envoyé',
+    "back":'Précédent',
     "auth":"Authentification",
     "step":"Étape 1 sur 2",
     "title":"Vérifiez votre boîte de réception",
