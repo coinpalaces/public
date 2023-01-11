@@ -10,8 +10,8 @@
 },
 
 "email":{
-    "codeSent":'Код отправлен',
-    "back":'Назад',
+    "codeSent":"Код отправлен",
+    "back":"Назад",
     "auth":"Wwierzytelnianie",
     "step":"Krok 1 z 2",
     "title":"Sprawdź pocztę e-mail",
