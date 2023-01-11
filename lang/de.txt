@@ -10,6 +10,7 @@
 },
 
 "email":{
+    "mobile":"Code eingeben",
     "codeSent":"Code gesendet",
     "back":"Zurück",
     "auth":"Authentifizierung",
