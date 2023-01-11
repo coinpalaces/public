@@ -12,7 +12,7 @@
 "email":{
     "auth":"Autenticação",
     "step":"Etapa 1 de 2",
-    "title":"Zkontrolujte svůj e-mail",
+    "title":"Verifique seu e-mail",
     "p1":"Um código de verificação de 6 dígitos foi enviado para",
     "p2":" Digite-o abaixo.",
     "label":"Código de verificação *",
